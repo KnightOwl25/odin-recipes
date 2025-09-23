@@ -1,11 +1,11 @@
 /*styles.css*/
 
-body {
-    text-align: center;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: large;
+.title {
+    font-size: 100px;
+    color: red;
 }
 
-title {
-    font-size: larger;
+* {
+    background-color: blueviolet;
 }
+
